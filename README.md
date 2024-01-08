@@ -13,7 +13,8 @@ Area Chart for YOY Growth
 Pie Chart for Sales by Segments   
 Stacked Bar Chart fro Sales by Category   
 Slicers for filtaration   
-Line Charts for Forecasting
+Line Charts for Forecasting  
+DAX function
 
 
 
